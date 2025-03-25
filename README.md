@@ -1,8 +1,7 @@
 ## 📦 Installation
 
 1. **Clone the repository:**
-   git clone https://github.com/your-username/chat-app-php.git
-   cd chat-app-php
+   git clone https://github.com/Nhut-Tan/App_Chat_Realtime.git
 2. **Install dependencies:**
  composer install
 3.**Config connect database:**
